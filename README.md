@@ -4,7 +4,7 @@ The project is an open-source project released under the Apache License 2.0.
 
 Note: This project contains the complete Nutch 1.6 distribution. The plugin itself can be found in /src/plugin/parse-anth
 
-Table of Contents
+Table of Content
 -----------------
 * [Nutch-Anthelion Plugin](#nutch-anthelion plugin)
   * [Plugin Overview] (#plugin-overview)
